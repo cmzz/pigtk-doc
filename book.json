@@ -1,0 +1,74 @@
+{
+  "title": "小猪淘客使用教程",
+  "description": "小猪淘客系统使用教程、淘宝客基础教程、淘宝客进阶经验分享",
+  "author": "pigtk.com",
+  "language": "zh-hans",
+  "output.name": "site",
+  "root": ".",
+  "links": {
+    "sidebar": {
+      "小猪淘客": "http://www.pigtk.com"
+    }
+  },
+  "plugins": [
+    "-lunr",
+    "-search",
+    "-highlight",
+    "-livereload",
+    "search-plus@^0.0.11",
+    "simple-page-toc@^0.1.1",
+    "advanced-emoji@^0.2.1",
+    "anchors@^0.7.1",
+    "tbfed-pagefooter@^0.0.1",
+    "search-pro@^2.0.2",
+    "anchor-navigation-ex@0.1.8",
+    "favicon@^0.0.2",
+    "prism@^2.1.0",
+    "prism-themes@^0.0.2",
+    "todo@^0.1.3",
+    "multipart",
+    "theme-comscore"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": false
+    },
+    "prism": {
+      "css": [
+        "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
+      ]
+    },
+    "sharing": {
+      "weibo": true,
+      "facebook": true,
+      "twitter": true,
+      "google": false,
+      "instapaper": false,
+      "vk": false,
+      "all": [
+        "facebook",
+        "google",
+        "twitter",
+        "weibo",
+        "instapaper",
+        "expandable-chapters-small"
+      ]
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy; www.pigtk.com 2017",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "simple-page-toc": {
+      "maxDepth": 3,
+      "skipFirstH1": true
+    },
+    "anchor-navigation-ex": {
+      "isRewritePageTitle": true,
+      "isShowTocTitleIcon": true,
+      "tocLevel1Icon": "fa fa-hand-o-right",
+      "tocLevel2Icon": "fa fa-hand-o-right",
+      "tocLevel3Icon": "fa fa-hand-o-right"
+    }
+  }
+}

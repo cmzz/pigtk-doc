@@ -1,3 +1,17 @@
-# My Awesome Book
+小猪淘客教程
+======
+本教程主要围绕 小猪淘客产品（CMS、微信机器人） 的安装，配置，使用，及淘宝客知识几个方面。
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+由于编写时间有限，难免存在遗漏或讲解不到位的地方，还请谅解！
+
+如果教程有不明白的地方，可以通过QQ或微信联系我。
+
+## 网址
+
+- 小猪淘客官网：<http://www.pigtk.com>
+- 小猪淘客CMS：<http://t.pigtk.com>
+
+## 联系
+
+- QQ群: `373452412`
+- 微信群: 微信搜索`iwuzhuo`，备注`小猪淘客`我会拉你进群。
