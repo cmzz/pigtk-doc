@@ -28,8 +28,6 @@
     * [推送设置](wechat/sent.md)
     * [微信群设置](wechat/group.md)
 * [微信机器人设置](wechat/robot.md)
-    * [小猪淘客助手](wechat/zhushou.md)
-    * [CoCo微信机器人](wechat/coco.md)
 
 ## Part 4 - 小猪淘客CMS
 * [准备工作](cms/ready.md)
