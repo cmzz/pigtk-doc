@@ -34,3 +34,9 @@
 * [基本设置](cms/basic.md)
 * [绑定域名](cms/domain.md)
 * [添加统计](cms/tongji.md)
+
+## Part 5 - 更新记录
+* [机器人](update/robot.md)
+* [小程序](update/weapp.md)
+* [cms系统](update/cms.md)
+* [小猪官网](update/web.md)
