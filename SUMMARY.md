@@ -8,6 +8,7 @@
   * [通用PID](taobaoke/tongyong_pid.md)
   * [微信PID](taobaoke/weixin_pid.md)
   * [淘点金PID](taobaoke/taodianjin_pid.md)
+* [自动高佣](taobaoke/token.md)
 
 ## Part 2 - 淘客小程序
 * [准备工作](weapp/ready.md)
